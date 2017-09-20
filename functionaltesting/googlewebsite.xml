@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="validateCalcualtor">
+    <classes>
+      <class name="mavenfunctionaltesting.functionaltesting.CalculatorTest"/>
+    </classes>
+  </test> <!-- validateCalcualtor -->
+  <test name="validategooglewebsite">
+    <classes>
+      <class name="mavenfunctionaltesting.functionaltesting.googlewebsite"/>
+       </classes>
+  </test> <!-- validategooglewebsite -->
+</suite> <!-- Suite -->
