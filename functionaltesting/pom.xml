@@ -52,7 +52,7 @@
         <configuration>
          <forkCount>0</forkCount>
           <suiteXmlFiles>
-            <file>googlewebsite.xml</file>
+            <file>javacalculator.xml</file>
             </suiteXmlFiles>
          </configuration> 
         </plugin> 
